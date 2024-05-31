@@ -1,0 +1,20 @@
+body {
+  height: 100vh;
+  background-color: black;
+  color: white;
+  font-family: 'Roboto', sans-serif;
+  margin: 0;
+  padding: 3rem 1.5rem 0 1.5rem;
+  box-sizing: border-box;
+}
+
+p {
+  display: flex;
+  align-items: center;
+  font-weight: 100;
+  font-size: .85rem;
+}
+
+img {
+  width: 100%;
+}

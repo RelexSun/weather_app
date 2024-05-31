@@ -1,0 +1,19 @@
+.daily-forecast {
+  max-width: 40em;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 1rem;
+}
+
+.forecast-detail {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.day {
+  font-size: 1rem;
+  padding: 0;
+}
